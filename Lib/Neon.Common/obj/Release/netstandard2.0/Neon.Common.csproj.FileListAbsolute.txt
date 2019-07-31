@@ -1,0 +1,10 @@
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\bin\Release\netstandard2.0\Neon.Common.deps.json
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\bin\Release\netstandard2.0\Neon.Common.dll
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\bin\Release\netstandard2.0\Neon.Common.pdb
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\bin\Release\netstandard2.0\Neon.Common.xml
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\obj\Release\netstandard2.0\Neon.Common.csprojAssemblyReference.cache
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\obj\Release\netstandard2.0\Neon.Common.csproj.CoreCompileInputs.cache
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\obj\Release\netstandard2.0\Neon.Common.AssemblyInfoInputs.cache
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\obj\Release\netstandard2.0\Neon.Common.AssemblyInfo.cs
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\obj\Release\netstandard2.0\Neon.Common.dll
+C:\Users\johnc\source\repos\nforgeio\neonKUBE\Lib\Neon.Common\obj\Release\netstandard2.0\Neon.Common.pdb
