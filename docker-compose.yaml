@@ -38,7 +38,7 @@ services:
     environment:
       - "CADENCE_HOST_IP=cadence:7933"
     ports:
-      - 5000:80
+      - "5000:80"
     expose:
       - "7933"
     depends_on:
